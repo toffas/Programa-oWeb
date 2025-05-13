@@ -1,4 +1,4 @@
-namespace MBGestaoEscolarAN.Entities
+﻿namespace MBGestaoEscolarAN.Entities
 {
     public class Turma
     {
